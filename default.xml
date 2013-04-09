@@ -274,4 +274,9 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="CyanogenMod/android" />
+  #golfu dependencies
+  <project path="device/htc/golfu" name="speedbot/android_device_htc_golfu" revision="master"  />
+    <project path="vendor/htc/golfu" name="munjeni/vendor_htc_golfu" revision="master"  />
+  
+  
 </manifest>
